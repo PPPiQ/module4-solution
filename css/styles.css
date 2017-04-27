@@ -1,0 +1,24 @@
+body {
+  font-size: 1.2em;
+}
+div[ui-sref]:hover {
+  display: block;
+  cursor: pointer;
+  border: solid balck 1px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+div.tabs > a, div.tabs > button {
+  border: solid balck 1px;
+  margin-right: 10px;
+  font-size: 1.2em;
+}
+
+div.tabs {
+  margin-bottom: 10px;
+}
+
+.activeTab {
+  font-weight: bold;
+}
