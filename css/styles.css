@@ -2,11 +2,6 @@ body {
   font-size: 1.2em;
 }
 
-br {
-
-  padding: 10px;
-}
-
 div.tabs > a, div.tabs > button {
   border: solid balck 1px;
   margin-right: 10px;
